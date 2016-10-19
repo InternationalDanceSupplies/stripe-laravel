@@ -15,6 +15,12 @@
             "homepage": "https://cartalyst.com"
         }
     ],
+    "repositories": [
+         {
+        "type": "vcs",
+        "url": "https://github.com/InternationalDanceSupplies/stripe"
+        }
+    ],
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "5.2.*",
