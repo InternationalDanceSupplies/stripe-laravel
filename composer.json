@@ -1,6 +1,6 @@
 {
     "name": "cartalyst/stripe-laravel",
-    "description": "Laravel 5.2 integration for the Cartalyst Stripe package.",
+    "description": "Laravel 5.2 integration for the Cartalyst Stripe package. (Modified for IDS needs.)",
     "keywords": [
         "php",
         "cartalyst",
